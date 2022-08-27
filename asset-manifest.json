@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/playpoker/static/css/main.91a000f9.css",
-    "main.js": "/playpoker/static/js/main.2828bc8c.js",
+    "main.js": "/playpoker/static/js/main.ff73423a.js",
     "static/js/787.01f84548.chunk.js": "/playpoker/static/js/787.01f84548.chunk.js",
     "static/media/heart.png": "/playpoker/static/media/heart.d78989803dd4a5ce4562.png",
     "static/media/club.png": "/playpoker/static/media/club.1110650baeb76075952a.png",
@@ -9,11 +9,11 @@
     "static/media/diamond.png": "/playpoker/static/media/diamond.0bdbea5826dde5a4b8fe.png",
     "index.html": "/playpoker/index.html",
     "main.91a000f9.css.map": "/playpoker/static/css/main.91a000f9.css.map",
-    "main.2828bc8c.js.map": "/playpoker/static/js/main.2828bc8c.js.map",
+    "main.ff73423a.js.map": "/playpoker/static/js/main.ff73423a.js.map",
     "787.01f84548.chunk.js.map": "/playpoker/static/js/787.01f84548.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91a000f9.css",
-    "static/js/main.2828bc8c.js"
+    "static/js/main.ff73423a.js"
   ]
 }
