@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/playpoker/static/css/main.91a000f9.css",
-    "main.js": "/playpoker/static/js/main.ff73423a.js",
+    "main.css": "/playpoker/static/css/main.b4da4ee7.css",
+    "main.js": "/playpoker/static/js/main.4d55f8b1.js",
     "static/js/787.01f84548.chunk.js": "/playpoker/static/js/787.01f84548.chunk.js",
+    "static/media/Inter.ttf": "/playpoker/static/media/Inter.aadb65ac45347ff46699.ttf",
+    "static/media/card-background.png": "/playpoker/static/media/card-background.3dbdb58c929d8d5400f0.png",
+    "static/media/Title-Font.ttf": "/playpoker/static/media/Title-Font.a2d2af13763c4348e773.ttf",
     "static/media/heart.png": "/playpoker/static/media/heart.d78989803dd4a5ce4562.png",
     "static/media/club.png": "/playpoker/static/media/club.1110650baeb76075952a.png",
     "static/media/spade.png": "/playpoker/static/media/spade.8509c039c194dd7f8551.png",
     "static/media/diamond.png": "/playpoker/static/media/diamond.0bdbea5826dde5a4b8fe.png",
+    "static/media/Poker-Font.otf": "/playpoker/static/media/Poker-Font.a20a22f48b56a13ffcf2.otf",
     "index.html": "/playpoker/index.html",
-    "main.91a000f9.css.map": "/playpoker/static/css/main.91a000f9.css.map",
-    "main.ff73423a.js.map": "/playpoker/static/js/main.ff73423a.js.map",
+    "main.b4da4ee7.css.map": "/playpoker/static/css/main.b4da4ee7.css.map",
+    "main.4d55f8b1.js.map": "/playpoker/static/js/main.4d55f8b1.js.map",
     "787.01f84548.chunk.js.map": "/playpoker/static/js/787.01f84548.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91a000f9.css",
-    "static/js/main.ff73423a.js"
+    "static/css/main.b4da4ee7.css",
+    "static/js/main.4d55f8b1.js"
   ]
 }
